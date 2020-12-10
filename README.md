@@ -1,5 +1,7 @@
 ### 🌊 Hi there.
 
+I'm Julia, a junior dev currently looking for work. 
+
 <!--
 **julia-kim/julia-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
