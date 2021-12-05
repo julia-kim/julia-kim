@@ -2,6 +2,9 @@
 
 I'm Julia, a junior dev currently looking for work. 
 
+- ⚙️ I code in: `.java`, `.kotlin`, `.js`
+- 📫 Reach me: [email](mailto:hello@julia.kim)
+
 <!--
 **julia-kim/julia-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
